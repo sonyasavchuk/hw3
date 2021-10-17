@@ -1,0 +1,13 @@
+D:\учеба\прога\hw3Console\hw3Console\bin\Debug\netcoreapp3.1\hw3Console.exe
+D:\учеба\прога\hw3Console\hw3Console\bin\Debug\netcoreapp3.1\hw3Console.deps.json
+D:\учеба\прога\hw3Console\hw3Console\bin\Debug\netcoreapp3.1\hw3Console.runtimeconfig.json
+D:\учеба\прога\hw3Console\hw3Console\bin\Debug\netcoreapp3.1\hw3Console.runtimeconfig.dev.json
+D:\учеба\прога\hw3Console\hw3Console\bin\Debug\netcoreapp3.1\hw3Console.dll
+D:\учеба\прога\hw3Console\hw3Console\bin\Debug\netcoreapp3.1\hw3Console.pdb
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.csprojAssemblyReference.cache
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.AssemblyInfoInputs.cache
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.AssemblyInfo.cs
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.csproj.CoreCompileInputs.cache
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.dll
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.pdb
+D:\учеба\прога\hw3Console\hw3Console\obj\Debug\netcoreapp3.1\hw3Console.genruntimeconfig.cache
